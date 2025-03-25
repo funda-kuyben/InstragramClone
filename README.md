@@ -21,5 +21,5 @@ This project is a basic social media application similar to Instagram, developed
 * 
 	![image](https://github.com/user-attachments/assets/4d7bd70f-9ae9-4bb6-82ea-15cf478ee003)
   ![image](https://github.com/user-attachments/assets/9ea8c55e-5e9f-4d5d-bc84-192da6cc0d9b)
-  ![image](https://github.com/user-attachments/assets/a027f50e-9e0a-41c1-8c74-a0673b9dc56e)
+
 
